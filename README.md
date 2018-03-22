@@ -4,3 +4,10 @@ Like I said, Python is definitely the most seamless language when it comes to bu
 1. pip 
 2. Scipy and dependencies (python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose) 
 3. Keras  (sudo pip install keras)
+After installation, all you need is to get your hands dirty with learning Keras.
+
+Finding just the right deep network architecture can be tricky. You have to have a killer intuition, that comes with practice of course. As a beginner, your first step is to try different architectures: deep, shallow, flat, narrow. Find the sweet spot in your validation set. Slowly you'll grow that instinct! 
+
+Check out my code. It has step by step instructions!!
+
+Thanks!
